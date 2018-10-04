@@ -1,9 +1,12 @@
 		-Project címe-			---ProsToly---
 
 1.:	 Bevezetés:
-		Ki kéne találni mibõl áll a projekt
+		A vicceket mindenki szereti. Remélhetõleg ez az alkalmazás tetszeni fog a viccet szeretõ embereknek.
+
 2.:	 Jelenlegi helyzet:
+		
 
 3.:	 Funkcionális követelmények:
+		Képes legyen kategorizálni, egy vicc szerepelhessen több kategóriában is.
 
 4.:	 Teknikai követelmények:	
