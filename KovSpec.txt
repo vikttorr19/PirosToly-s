@@ -1,7 +1,7 @@
 		-Project címe-			---ProsToly---
 
 1.:	 Bevezetés:
-
+		Ki kéne találni mibõl áll a projekt
 2.:	 Jelenlegi helyzet:
 
 3.:	 Funkcionális követelmények:
