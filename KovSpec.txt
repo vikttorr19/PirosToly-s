@@ -1,4 +1,4 @@
-		-Project címe-			---ProsToly---
+		-Project címe-			---Amõba---
 
 1.:	 Bevezetés:
 		A faszt mindenki szereti. Remélhetõleg ez az alkalmazás tetszeni fog a viccet szeretõ embereknek.
