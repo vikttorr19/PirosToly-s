@@ -1,12 +1,19 @@
-		-Project címe-			---Amõba---
+					---Amõba---
 
 1.:	 Bevezetés:
-		A faszt mindenki szereti. Remélhetõleg ez az alkalmazás tetszeni fog a viccet szeretõ embereknek.
+		
+		Az amõba kétszemélyes absztrakt stratégiai táblás játék
+		A gyõzelemhez (legalább) öt bábunkat kell egy vonalba lerakni.
 
 2.:	 Jelenlegi helyzet:
-		
+
+		Éppen csak kitaláltuk, hogy mit is fogunk csinálni.
 
 3.:	 Funkcionális követelmények:
-		Képes legyen kategorizálni, egy vicc szerepelhessen több kategóriában is.
+
+		Képes legyen annyira, amennyire egy átlagos amõba játék.
 
 4.:	 Teknikai követelmények: 	
+
+		Windows forms-ban készül.
+		A játékban a két karakter pozicinálása hiba nélkül történken meg.
