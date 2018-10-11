@@ -1,7 +1,7 @@
 		-Project címe-			---ProsToly---
 
 1.:	 Bevezetés:
-		A Danit mindenki szereti. Remélhetõleg ez az alkalmazás tetszeni fog a viccet szeretõ embereknek.
+		A faszt mindenki szereti. Remélhetõleg ez az alkalmazás tetszeni fog a viccet szeretõ embereknek.
 
 2.:	 Jelenlegi helyzet:
 		
