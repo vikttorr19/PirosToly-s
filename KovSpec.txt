@@ -9,4 +9,4 @@
 3.:	 Funkcionális követelmények:
 		Képes legyen kategorizálni, egy vicc szerepelhessen több kategóriában is.
 
-4.:	 Teknikai követelmények: x	
+4.:	 Teknikai követelmények: 	
