@@ -7,7 +7,8 @@
 
 2.:	 Jelenlegi helyzet:
 
-		Éppen csak kitaláltuk, hogy mit is fogunk csinálni.
+		Felület, kivitelezés tervezése
+		Programkód megírása
 
 3.:	 Funkcionális követelmények:
 
@@ -15,5 +16,4 @@
 
 4.:	 Teknikai követelmények: 	
 
-		Windows forms-ban készül.
 		A játékban a két karakter pozicinálása hiba nélkül történken meg.
